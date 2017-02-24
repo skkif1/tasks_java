@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - hib_debug@localhost" uuid="8bbd4839-862a-407f-90f6-8d2334ac5ac8">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>hib_debug.*</schema-pattern>
+      <default-schemas>hib_debug.*</default-schemas>
+    </data-source>
+  </component>
+</project>
